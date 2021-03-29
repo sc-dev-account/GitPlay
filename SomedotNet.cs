@@ -1,7 +1,9 @@
-using System.Text
+using System.Text;
+
 
 namespace Name
 {
+
   
   public class Test
   {
@@ -21,7 +23,7 @@ namespace Name
 
 
   
-    publc class Testing
+    class Testing
     {
 
       public Testing(Parameters)
@@ -29,13 +31,13 @@ namespace Name
         test =   4;
       }
       
-      int test t = 0
+      int test = 0;
     }
     
-    publc class Testing2
+    class Testing2
     {
 
-      int test t = 0
+      int test = 0;
     }
 
 
