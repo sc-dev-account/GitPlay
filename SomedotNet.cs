@@ -9,6 +9,6 @@ public class Test
     public int Test { get; set; }
     public string Name { get; set;}
 
-
+public int test2 { get; set; }  
     
 }
