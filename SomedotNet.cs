@@ -26,7 +26,7 @@ namespace Name
     class Testing
     {
 
-      public Testing(Parameters)
+      public Testing(string parameters)
       {
         test =   4;
       }
